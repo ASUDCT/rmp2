@@ -1,6 +1,7 @@
 """
 Script for rolling out a hand-designed rmp2 policy on the 3-link robot
 rmp parameters are given in rmp2/configs/3link_config.yaml
+just for a test
 """
 
 from rmp2.rmpgraph import RobotRMPGraph

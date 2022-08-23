@@ -1,6 +1,7 @@
 """
 Script for rolling out a hand-designed rmp2 policy on the franka robot
 rmp parameters are given in rmp2/configs/franka_config.yaml
+just for a test
 """
 
 from rmp2.rmpgraph import RobotRMPGraph
